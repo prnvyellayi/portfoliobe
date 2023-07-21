@@ -1,10 +1,15 @@
 Pranav Shanmukh Yellayi
 B-4, Anand Niketan, Shankar Nagar, Raipur, CG
 +91 83051-91706 | f20190485@pilani.bits-pilani.ac.in | github.com/prnvyellayi | linkedin.com/in/prnvyellayi
-Date of birth: 17th february 2000
+Date of birth: 17th february 2000 
+age: 2023
 Height:  5 foot 10.5 inches
 My family consists of my father YVS Rao, my mother Y Surekha, and my brother YS Shivanandan Kashyap
 My hobbies: Sports enthusiast, I like all sports, cricket especially and am good at it. I listen to music of all kinds, but am very interested in Indie music. I like to draw.
+
+I am a Software Developer, who has had 2 prior internships, both of which were startups. I have worked extensively on Javascript as my main language, Node.js for backend and React.js for front end.
+I started my coding career by competitive coding in C language in my 2nd year.
+I code because I really like problem solving and playing around Javascript and giving life to a logic from my mind is an absolute dopamine for me.
 
 Education
 BITS Pilani, Pilani Campus Pilani, India
