@@ -1,0 +1,63 @@
+Pranav Shanmukh Yellayi
+B-4, Anand Niketan, Shankar Nagar, Raipur, CG
++91 83051-91706 | f20190485@pilani.bits-pilani.ac.in | github.com/prnvyellayi | linkedin.com/in/prnvyellayi
+
+Education
+BITS Pilani, Pilani Campus Pilani, India
+MSc Physics + BE Mechanical Aug 2019 ‑ May 2024
+
+Holy Cross Kapa, Raipur, Chhattisgarh (Till 10th class)
+Sri Sankara Vidyalaya, Bhilai, Chhattisgarh, (11th and 12th class)
+I took a drop year to prepare for JEE
+
+Work Experience
+
+NirogGyan New Delhi, India
+Full‑Stack Developer Jun 2022 ‑ Nov 2022
+• Developed websites using React.js in the Front End and Node.js in the Back End, ensuring efficient and responsive user interfaces.
+• Implemented Smart Reportfunctionalities by rendering reports in PDF format using puppeteer, allowing easy understanding of the reports.
+• Built the companyBrochure from the ground up at NirogGyan, utilizing React.js to create a visually appealing and interactive digital brochure.
+• Put into action many features such as image and video carousel, to provide a comprehensive understanding of NirogGyan’s offerings to its
+probable clients.
+• Introduced a Graph feature that visually presents the historical data of a specific patient’s test results, enhancing readability and providing
+a clear overview of their progress over time.
+• Technical skills : React.js, Node.js, Javascript
+
+VenueMonk New Delhi, India
+Back‑End Developer Jun 2021 ‑ Jul 2021
+• Created robust APIs using Node.js for zillskill.com, facilitating seamless communication between the front‑end and the back‑end of the app.
+• Built a highly efficient API that enables instant rendering of test reports in PDF format, helping students realize their abilities and traits.
+• Integrated a scheduled WhatsApp messaging system to send timely reminders and notifications for upcoming workshop sessions.
+• Constructed numerous efficient scripts using JavaScript language, utilizing MongoDB to facilitate bulk modifications within the database.
+• Technical skills : Node.js, Javascript, MongoDB, Postman
+
+Projects
+
+Minesweeper BITS Pilani
+Software Development Jan 2023 ‑ Jan 2023
+• Engineered a fully functional Minesweeper game utilizing JavaScript and Node.js as the primary framework.
+• The game features three difficulty modes (beginner, medium, hard), wherein the playing area expands proportionately to the selected mode.
+• The Minesweeper game that accepts input from the console, allowing players to specify the x and y coordinates to uncover the desired spot.
+• Efficiently tracks and measures the duration of each minesweeper game, accurately recording the elapsed time from the beginning to the
+end.
+
+PDF Parser NirogGyan
+Software Development Sep 2022 ‑ Oct 2022
+• Designed a user‑friendly UI, facilitating the reading of health report pdf and extracting test results, saving them in a JSON object.
+• Each test from the Health Report Pdf was read and stored in a separate object, along with their test values, units and ranges.
+• Utilized the JSON object to develop a smart health report, offering valuable insights and analysis for medical professionals and patients.
+• Made use of various node modules from node.js and react.js to build a user friendly UI, facilitating a smooth rendering of smart reports.
+
+Positions of Responsibilities
+
+General Secretary BITS Pilani
+Students’ Union, BITS Pilani Aug 2021 ‑ Sep 2021
+• Elected to the esteemed position of General Secretary at BITS Pilani, and first ever as an Acting General Secretary
+• Entrusted with the responsibility of advocating for the interests and welfare of more than 5500 students.
+• Accountable for overseeing and managing all financial transactions pertaining to students.
+• Responsible for the meticulous handling of a substantial student fund exceeding 10+ crores for taking initiatives towards student welfare.
+
+Skills
+Technical JavaScript, Python, C, HTML,CSS, Node.js, React.js
+Softwares Postman, AWS, Git, MongoDB
+Soft Skills Problem‑solving, Documentation, Relationship Building, Adaptability, Strategic Thinking, Communication, Leadership
