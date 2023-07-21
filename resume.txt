@@ -1,6 +1,10 @@
 Pranav Shanmukh Yellayi
 B-4, Anand Niketan, Shankar Nagar, Raipur, CG
 +91 83051-91706 | f20190485@pilani.bits-pilani.ac.in | github.com/prnvyellayi | linkedin.com/in/prnvyellayi
+Date of birth: 17th february 2000
+Height:  5 foot 10.5 inches
+My family consists of my father YVS Rao, my mother Y Surekha, and my brother YS Shivanandan Kashyap
+My hobbies: Sports enthusiast, I like all sports, cricket especially and am good at it. I listen to music of all kinds, but am very interested in Indie music. I like to draw.
 
 Education
 BITS Pilani, Pilani Campus Pilani, India
@@ -47,6 +51,14 @@ Software Development Sep 2022 ‑ Oct 2022
 • Each test from the Health Report Pdf was read and stored in a separate object, along with their test values, units and ranges.
 • Utilized the JSON object to develop a smart health report, offering valuable insights and analysis for medical professionals and patients.
 • Made use of various node modules from node.js and react.js to build a user friendly UI, facilitating a smooth rendering of smart reports.
+
+ZAG store
+Software Development July 2023
+Designed a webapp to shop products such as T-shirts
+Details of each product can be viewed, along with add to cart with preferred sizes
+Feature to like a product of your choice
+Cart page gives a checkout option with the total amount
+Link: https://zap-store-prnvyellayi.netlify.app/
 
 Positions of Responsibilities
 
