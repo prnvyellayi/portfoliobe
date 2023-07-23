@@ -14,6 +14,7 @@ const memory = new BufferMemory({
     memoryKey: "chat_history",
     returnMessages: true,
 });
+
 //server
 const app = express()
 app.use(bodyParser.json())
@@ -34,13 +35,13 @@ app.post('/chat', async (req, res) => {
     const splitDocs = await textSplitter.splitDocuments(docs);
     const embeddings = new OpenAIEmbeddings({
         openAIApiKey: process.env.GPT_API_KEY,
-        temperature: 0.1
+        temperature: 0
     })
     const vectorStore = await MemoryVectorStore.fromDocuments(splitDocs, embeddings);
     const model = new ChatOpenAI({
         modelName: "gpt-3.5-turbo",
         openAIApiKey: process.env.GPT_API_KEY,
-        temperature: 0.1
+        temperature: 0
     });
     const chain = ConversationalRetrievalQAChain.fromLLM(model, vectorStore.asRetriever(), {
         memory
