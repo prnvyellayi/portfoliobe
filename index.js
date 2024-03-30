@@ -53,6 +53,10 @@ app.post('/chat', async (req, res) => {
     res.send(response.text)
 })
 
+app.get('/start', async (req, res) => {
+    res.send('server start...')
+})
+
 const port = 8080
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`)
